@@ -1,0 +1,267 @@
+/*-------------------------------------------------------
+COLOR DEFINITION
+--------------------------------------------------------*/
+
+/*---------- Background Color ------------*/
+.hps-title4,
+.man-girl, 
+.box-left .icon .fa,
+.box-right .icon .fa,
+.about-bottom-title h4, 
+.news-date, 
+.parallax-background-overlay,
+.month, 
+.our-pricing, 
+.content-our-team.our-team-tabs .our-team-pane,
+.content-our-team.our-team-tabs .our-team-nav > span.our-team-current,
+.background-overlay,
+.classes-content .filter.is-checked,
+.price-table-content,
+.btn-submit,
+.shop .price-table-content a,
+.arrows .fa,
+.actions,
+.img-box-right,
+.event-month,
+.gallery .title-gallery,
+.icon-block .fa,
+.tab-history .our-team-nav span.our-team-current:before,
+.categories .filter.is-checked,
+.class-trainer-title,
+.class-info-title,
+.comments-title,
+.btn-submit,
+.img-trainers,
+.profile-title,
+.experience-spoiler-opened .experience-details-title,
+.progress-indicator .bg-red,
+.skill-percent,
+.parallax-col .parallax-row .thumb:after,
+.page-product .product-image-wrapper .new-label,
+.page-product .product-filter,
+.page-product .product-categories,
+.page-product .pages ol li.current a,
+.product-detail .product-collateral > ul li.ui-state-active a,
+.product-cart .cart .cart-collaterals .title,
+.product-check-out .checkout .checkout-row .title,
+.calendar-title,
+.mini-cart .check,
+.calendar-day > div,
+.menu-sidebar,
+.menu-wrap,
+#open-button,
+.quickview-box .quickview-close,
+.headding-content .icon-headding .fa,
+.ms-skin-default .ms-bullet-selected,
+.header-option .header-container-3 .shopping-cart i, .header-option .search i,
+.product-essential .add-to-box .link-wishlist,
+.ch-info .ch-info-back,
+.shopping-cart:hover  i, .search:hover  i ,
+.timetable-top .timetable-cont:hover .table:before,
+.sevices-wapper:hover
+.content-our-team.our-team-tabs .our-team-nav > span:hover,
+.classes-content .filter:hover, 
+.price-tb:hover .plan,
+.shop .price-table-content:hover,
+.product-content  .info-products:hover, 
+.our-trainers .info-products:hover,
+#copyright:hover,
+.menu-about ul li a:hover,
+.tab-history .our-team-nav span:hover:before,
+.banner-details .carousel-control span:hover,
+.course:hover,
+.product-content  .info-products:hover, .our-trainers .info-products:hover,
+.load-more:focus,
+.page-product .pages ol li a:hover
+.product-detail .product-collateral > ul li a:hover,
+.calendar-date ul li:hover,
+.event-listing-grid .info-products:hover,
+.event-listing .news-item-inner:hover,
+.tags-blog a:hover,
+.icon-blog .icon a:hover,
+.social_icon a:hover ,
+.product-list-row .actions-box ul li a:hover,
+.content-our-team.our-team-tabs .our-team-nav > span:hover, .content-our-team.our-team-tabs .our-team-nav > span.our-team-current,
+.pages .current a,
+.related-post-list a:before,
+.headding-content .icon-headding,
+.calendar-details .info-products,
+.page-product .pages ol li.current a,
+.page-product .pages ol li a:hover,
+.product-essential .add-to-box .link-wishlist:hover,
+.product-essential .tags-list ul li a:hover,
+.product-essential .social-icon ul a:hover,
+.product-detail .product-collateral > ul li a:hover,
+.product-detail .product-collateral > ul li.ui-state-active a,
+.categories .filter:hover, .categories .filter.is-checked,
+.class-trainer-content .profile:hover,
+.header-option .shopping-cart i, .header-option .search i,
+.sevices-wapper:hover,
+.boxing-page .header-container .logo,
+.panel-tools .panel-button,.panel-tools  .layout-setting button.active,.reset-button button,
+.masonry-small,
+.icon-sport,
+.footer-store,
+#copyright.copyright-store,
+.btn-store a,
+.sub-title:hover,
+.icon-cart, .icon-wishlist,
+.product-image-wrapper:hover .product-content  .info-products, 
+.product-image-wrapper:hover .our-trainers .info-products,
+.my-cart, .my-wishlist,
+.bag-cart .check, 
+.ms-thumb-frame-selected .sub-title,
+.title-match > h3,
+.league-top .number,
+.btn-store.shop-now a, 
+.sport-club .logo a
+{
+	background: none repeat scroll 0 0 #ff4000;
+}
+/*---------- End Background Color ------------*/
+
+/*---------- Text Color ------------*/
+
+.news-title a,
+.our-pricing-title h2,
+.our-pricing-title h3,
+.footer-title h4,
+.text-box h5,
+.success p span,
+.box-details a,
+.headding-content span,
+.special-price,
+.index-white .back-to-top a,
+.breadcrumbs ul,
+.about-details-title,
+.course a,
+.content-cmt .name-cmt,
+.product-popular ul li .info-products .price-box,
+.footer-right .line1 a,
+.product-essential .cat-list ul li a,
+.product-check-out .checkout .checkout-row .cart-total-item .price,
+.product-cart .cart .cart-table .row-item .price-item .cart-price,
+.calendar-date ul .calendar-note .calendar-day,
+.calendar-note .calendar-slide li a, .more,
+.popular-event .news-date,
+.created-by span, .category-name a,
+.created-by span, .category-name a,
+.megamenu ul.nav-menu > li:hover a,
+.megamenu .nav-menu > li ul.child-nav li > a:hover,
+.join a:hover,
+.timetable_details a:hover,
+.timetable-content .octember .icon-wrap:hover,
+.news-title a:hover,
+.success a:hover,
+.index-white .back-to-top a:hover,
+.history-skill li:hover,
+.share .social-icon a:hover,
+.page-product .product-filter a:hover,
+.calendar-title .circle:hover,
+.timetable-content .octember .icon-wrap:hover,
+.popular-event .latest-news-item:hover .news-title a,
+.product-detail .product-collateral .box-collateral ul li:before,
+.product-essential .meta-box .rating-box .rating,
+.breadcrumbs .home a, .breadcrumbs .category-1 a,
+.blog-title a:hover,
+.popular-event-details .news-day, .popular-event-details .news-month,
+.related-post-list a:hover,
+.content-cmt span a,
+.event-listing .news-time .open-time:before,
+.event-listing .news-time .event-text:before,
+.product-cart .cart .cart-collaterals .cart-total-item .price,
+.rating span,
+.info-content  a:hover,
+.icon-next a,
+.popular-title .next .icon-wrap:hover,
+.sport-content .read-more a,
+.bag-cart .info-products .price-box,
+.menu-store ul.nav-store > li a:hover,
+.text-sport p:last-child,
+.league-2.league-top,
+.join a:hover, .watch-video a:hover,
+.title-sport > a:hover,
+.view-league > a:hover
+{
+	color: #ff4000;
+}
+
+/*---------- End Text Color ------------*/
+
+/*---------- Border Color ------------*/
+
+.megamenu ul.nav-menu > li *:before, .megamenu ul.nav-menu > li:after
+{
+	border-bottom-color: #ff4000;
+}
+.megamenu ul.nav-menu > li:before, .megamenu ul.nav-menu > li:after
+ {
+    border-bottom: 2px solid #ff4000;
+}
+.header-container-2.reveal:not(.alt), .header-container-3.reveal:not(.alt)
+ {
+    border-bottom: 2px solid #ff4000 !important;
+}
+.to-bottom:before {
+  border-color: transparent transparent #ff4000;
+}
+.class-info-title:before, .skill-percent:before{
+  border-color: transparent transparent transparent #ff4000;
+}
+.class-info-title:before, .skill-percent:before {
+  border-left-color: #ff4000;
+}
+.box-left .icon .fa:after, .box-right .icon .fa:after {
+  border-top-color: #ff4000;
+}
+.box-left .icon .fa:after, .box-right .icon .fa:after {
+  border-color: #ff4000 transparent transparent;
+}
+.img-box-right-border {
+  border-left-color: #ff4000;
+  border-right: 0 solid #ff4000;
+}
+.plan, .course, .shop .price-table-content a, .course:hover, 
+.popular-title .next .icon-wrap:hover, .icon-next,
+.sport-content .read-more a .fa{
+  border: 2px solid #ff4000;
+}
+.classes-content .filter.is-checked, .classes-content .filter:hover {
+  border: 1px solid #ff4000;
+}
+.header-container-2, .header-container-3 {
+  border-bottom: 2px solid #ff4000;
+}
+.archives-title span {
+  border-bottom: 1px solid #ff4000;
+}
+.blog-main .img-blog img {
+  border: 4px solid #ff4000;
+}
+.page-product .pages ol li.current a,
+.page-product .pages ol li a:hover,
+.panel-tools  .layout-setting button.active,.reset-button button{
+    border-color: #ff4000;
+}
+.popular-event .latest-news-item:hover, .product-popular ul li:hover{
+    border-left:2px solid #ff4000;
+}
+.page-product .product-image-wrapper .new-label:before {
+  border-color: transparent transparent transparent #ff4000;
+}
+.button-wrap .close-btn {
+  background-color:#ff4000;
+}
+.add-to-box .button {
+  background-color:#ff4000;
+}
+.product-cart .cart .cart-collaterals .cart-total .button,
+.cart-collaterals .button, .checkout-row .button, .coupon .button, .btn-checkout{
+  background-color:#ff4000;
+}
+.footer-store .social_icon a {
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+/*---------- End Border Color ------------*/
